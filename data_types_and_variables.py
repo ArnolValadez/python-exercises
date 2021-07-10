@@ -57,3 +57,5 @@ user_and_password_valid
 
 # could also use ... for white spaces
 password_no_whitespace_ends = password[0] != ' ' and password[-1] != ' '
+
+Need to add print statements so they print out on the terminal!!!
